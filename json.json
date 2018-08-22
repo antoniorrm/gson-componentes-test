@@ -1,0 +1,28 @@
+{
+    "nome": "Antonio Raimundo",
+    "email": "antonioraimundo@gmail.com",
+    "vaiPassarEmReuso": false,
+    "endereco": {
+        "rua": "João Aprigio",
+        "cidade": "Quixadá",
+        "pais": "Brasil"
+    }
+} {
+    "nome": "Jackson Maia",
+    "email": "jacksonmaia@gmail.com",
+    "vaiPassarEmReuso": true,
+    "endereco": {
+        "rua": "João Aprigio",
+        "cidade": "Quixadá",
+        "pais": "Brasil"
+    }
+} {
+    "nome": "Jordão Sousa",
+    "email": "jordaosousa@gmail.com",
+    "vaiPassarEmReuso": false,
+    "endereco": {
+        "rua": "João Aprigio",
+        "cidade": "Quixadá",
+        "pais": "Brasil"
+    }
+}
